@@ -40,4 +40,4 @@ Está relacionada a um veículo e a uma equipe responsável.
 
 📁 Repositório
 Este esquema conceitual está disponível neste repositório para avaliação. O modelo pode ser representado graficamente em formato de diagrama ER (Entidade-Relacionamento)
-Link: 
+Link: https://github.com/marcelomoura85/Oficina-Mec-nica---Desafio-Dio/commit/7eb81f78f80d816f7b7c811cccb4b76b2a203e72
